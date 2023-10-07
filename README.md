@@ -1,5 +1,10 @@
 # HealthCare Using Ethereum Blockchain
 
+## Name: Souptik Ghosh
+## Roll No.: 10
+## Enrolment No.: 12020002016014
+## Stream: CSE(AIML)
+
 ## Project Objective
 This project is developed with the aim to store patient healthcare records over blockchain.
 The DApp build provides a patient centric system in which patient has control over his data i.e. patient themselves decide who can view their profiles/data. The system classifies the users into five categories: __Owner__, __Hospitals__, __Insurance Company__, __Doctor__ and __Patient__. 
